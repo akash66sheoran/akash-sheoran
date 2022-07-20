@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/akash-sheoran/static/css/main.ef153a1e.css",
-    "main.js": "/akash-sheoran/static/js/main.39ff0ab9.js",
+    "main.js": "/akash-sheoran/static/js/main.17914889.js",
     "static/js/787.b0865b88.chunk.js": "/akash-sheoran/static/js/787.b0865b88.chunk.js",
     "static/media/me.png": "/akash-sheoran/static/media/me.c159e622e86c48632613.png",
     "static/media/myself.png": "/akash-sheoran/static/media/myself.15b0e0d4f4e3d065fb4d.png",
     "static/media/portfolio-item2.png": "/akash-sheoran/static/media/portfolio-item2.50ca6b5ceb20ec4959ad.png",
     "static/media/portfolio-item1.png": "/akash-sheoran/static/media/portfolio-item1.d4aa4c48055e81296eb0.png",
-    "static/media/Akash.png": "/akash-sheoran/static/media/Akash.a4e9a45f1a9f2b693cd9.png",
+    "static/media/AkashSheoran.png": "/akash-sheoran/static/media/AkashSheoran.0f0e63bbe3f54071495f.png",
     "static/media/background.jpg": "/akash-sheoran/static/media/background.b6da0ff9608249be7bc7.jpg",
     "index.html": "/akash-sheoran/index.html",
     "main.ef153a1e.css.map": "/akash-sheoran/static/css/main.ef153a1e.css.map",
-    "main.39ff0ab9.js.map": "/akash-sheoran/static/js/main.39ff0ab9.js.map",
+    "main.17914889.js.map": "/akash-sheoran/static/js/main.17914889.js.map",
     "787.b0865b88.chunk.js.map": "/akash-sheoran/static/js/787.b0865b88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef153a1e.css",
-    "static/js/main.39ff0ab9.js"
+    "static/js/main.17914889.js"
   ]
 }
