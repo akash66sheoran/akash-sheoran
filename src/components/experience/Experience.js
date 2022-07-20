@@ -80,11 +80,16 @@ const Experience = () => {
                                 <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
+                    </div>
+                </div>
+                <div className="experience_backend">
+                    <h3>Programming</h3>
+                    <div className="experience_content">
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
-                                <h4>MySQL</h4>
-                                <small className='text-light'>Beginner</small>
+                                <h4>Python with DSA</h4>
+                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                     </div>
