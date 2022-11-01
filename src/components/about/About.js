@@ -2,7 +2,6 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/me.png'
 import { FaAward } from 'react-icons/fa'
-import { FiUsers } from 'react-icons/fi'
 import { AiOutlineFundProjectionScreen } from 'react-icons/ai'
 
 const About = () => {
@@ -14,7 +13,7 @@ const About = () => {
             <div className="container about_container">
                 <div className="about_me">
                     <div className="about_me-image">
-                        <img src={ME} alt="About image" />
+                        <img src={ME} alt="" />
                     </div>
                 </div>
 
@@ -27,19 +26,15 @@ const About = () => {
                         </article>
 
                         <article className='about_card'>
-                            <FiUsers className='about_icon' />
-                            <h5>Clients</h5>
-                            <small>5+ Worldwide</small>
-                        </article>
-
-                        <article className='about_card'>
                             <AiOutlineFundProjectionScreen className='about_icon' />
                             <h5>Projects</h5>
-                            <small>2+ completed</small>
+                            <small>6+ completed</small>
                         </article>
                     </div>
 
-                    <p>An enthusiastic MERN stack web developer currently pursuing BTech degree 4th year in computer science engineering.</p>
+                    <p>Enthusiastic student committed to learning, developing skills with latest
+                        and on demand technologies. Adaptive and energetic with superior
+                        performance in both independent and collaborative environments.</p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
                 </div>

@@ -16,35 +16,30 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>HTML</h4>
-                                <small className='text-light'>Experienced</small>
                             </div>
                         </article>
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>CSS</h4>
-                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>Javascript</h4>
-                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>Bootstrap</h4>
-                                <small className='text-light'>Experienced</small>
                             </div>
                         </article>
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>React</h4>
-                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                     </div>
@@ -56,28 +51,24 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>NodeJS</h4>
-                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>ExpressJS</h4>
-                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>MongoDB</h4>
-                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                         <article className='experience_details'>
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
-                                <h4>Mongoose</h4>
-                                <small className='text-light'>Intermediate</small>
+                                <h4>MySQL</h4>
                             </div>
                         </article>
                     </div>
@@ -89,7 +80,12 @@ const Experience = () => {
                             <BsPatchCheckFill className='experience_details-icon' />
                             <div>
                                 <h4>Python with DSA</h4>
-                                <small className='text-light'>Intermediate</small>
+                            </div>
+                        </article>
+                        <article className='experience_details'>
+                            <BsPatchCheckFill className='experience_details-icon' />
+                            <div>
+                                <h4>Data analysis and Visualisation</h4>
                             </div>
                         </article>
                     </div>
